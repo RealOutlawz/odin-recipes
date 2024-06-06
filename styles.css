@@ -1,0 +1,18 @@
+#big-title{
+    text-align: center;
+    background-color: whitesmoke;
+    color: darkgray;
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#QuesoLink{
+    background-color: darkorange;
+    font-size: 25px;
+    color: gray;
+}
+
+#VegetarianThing{
+    background-color: darkgray;
+    font-size: 25px;
+}
