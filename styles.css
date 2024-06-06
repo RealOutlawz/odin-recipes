@@ -7,13 +7,22 @@
 }
 
 #QuesoLink{
-    background-color: darkorange;
+    background-color: whitesmoke;
     font-size: 25px;
     color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #VegetarianThing{
-    background-color: darkgray;
+    background-color: whitesmoke;
     font-size: 25px;
-    color: white;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#GarlicButterCSS{
+    background-color: whitesmoke;
+    color: gray;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
