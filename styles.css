@@ -6,23 +6,46 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-#QuesoLink{
+#Queso-css{
     background-color: whitesmoke;
     font-size: 25px;
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 8px;
 }
 
-#VegetarianThing{
+#Vegetarian-css{
     background-color: whitesmoke;
     font-size: 25px;
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+    margin-bottom: 10px;
 }
 
-#GarlicButterCSS{
+#GarlicButter-css{
     background-color: whitesmoke;
     color: gray;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+#veg-menu{
+    background-color: whitesmoke;
+    height: auto;
+    width: 179px;
+    color: green;
+    display: flex;
+}
+
+#meat-menu{
+    color: gold;
 }
